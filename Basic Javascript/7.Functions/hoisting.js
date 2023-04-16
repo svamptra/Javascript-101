@@ -1,0 +1,1 @@
+// hoisting is the process of moving funciton declaration to the top of the file & this is done automatically by the javascript engine.
